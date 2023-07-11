@@ -8,8 +8,8 @@ namespace ConsoleAppTest
         {
             // this main branch of gittest.
             Console.WriteLine("Hello World!");
-            var test = new Test { name = "test" };
-            Console.WriteLine(test.name);
+            var test = new Test { fullname = "test" };
+            Console.WriteLine(test.fullname);
         }
     }
 }
