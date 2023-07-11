@@ -11,5 +11,6 @@ namespace ConsoleAppTest
 	    public string address {get; set;}
         public string state { get; set;}
         public string zipcode { get; set; }
+        public string country { get; set;}
     }
 }
