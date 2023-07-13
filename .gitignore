@@ -5,3 +5,5 @@
 *.suo
 /ConsoleAppTest/.vs
 /ConsoleAppTest/ConsoleAppTest/obj
+*.v2
+.vs
