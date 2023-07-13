@@ -8,7 +8,7 @@ namespace ConsoleAppTest
         {
             // this main branch of gittest.
             Console.WriteLine("Hello World!");
-            var test = new Test { firstname = "first", lastname ="last" };
+            var test = new People { firstname = "first", lastname ="last" };
             Console.WriteLine(test.fullname);
         }
     }
